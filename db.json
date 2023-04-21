@@ -1,9 +1,6 @@
 {
-  "blog":[
-  
-    {"id":1,"title":"ravi", "author":"rab"},
-      {"id":2,"title":"avi", "author":"ra"},
-      {"id":3,"title":"rai", "author":"rb"}
+  "dogs":[
+ 
   ],
   "user":[
     {"id":1}
